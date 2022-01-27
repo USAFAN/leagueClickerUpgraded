@@ -1,11 +1,4 @@
-import pyautogui
-import time
+#print gpu usage
+import subprocess
 while True:
-
-    champSearch = pyautogui.locateOnScreen('champSearch.png',confidence=0.6)
-    print(champSearch)
-    #click coords on screen
-    if champSearch != None:
-        print("found champSearch")
-        pyautogui.click(champSearch.left-250,champSearch.top+50,duration=0.5)
-        time.sleep(16)
+    print(subprocess.check_output(['nvidia-smi', '--query-gpu=utilization.gpu', '--format=csv,noheader']))

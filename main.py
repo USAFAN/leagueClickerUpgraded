@@ -15,13 +15,18 @@ while True:
     #championPng = pyautogui.locateOnScreen('championPng.png',confidence=0.6,grayscale=True)
     champSearch = pyautogui.locateOnScreen('champSearch.png',confidence=0.7)
 
-    
+    print(champSearch)
     print(lockin)
     print(banSearch)
+    #if key "-" is pressed, exit program
+    if pyautogui.keyDown('-'):
+        print("Exiting")
+        exit()
     if lockin != None and accepting:
         print("found lockin")
         pyautogui.click(lockin)
         onAcceptScreen = True
+        time.sleep(5)
     if champSearch != None and not lockedIn:
         print("found banSearch")
         onAcceptScreen = False

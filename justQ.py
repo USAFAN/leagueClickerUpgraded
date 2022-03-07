@@ -10,4 +10,5 @@ while True:
         print("found lockinPng")
         pyautogui.click(champSearch,duration=0.5)
         time.sleep(5)
+        
     time.sleep(3)

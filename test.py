@@ -1,4 +1,7 @@
-#print gpu usage
-import subprocess
-while True:
-    print(subprocess.check_output(['nvidia-smi', '--query-gpu=utilization.gpu', '--format=csv,noheader']))
+#switch audio output to speaker
+import sounddevice as sd
+print(sd.query_devices())
+audiosOutputs = sd.query_devices()
+
+# switch to the 8th device
+sd.default.device = 8

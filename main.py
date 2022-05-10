@@ -8,7 +8,7 @@ onAcceptScreen = True
 champ = "irelia"
 enemyBan = "teemo"
 lockedIn = False
-
+#test comment for post
 while True:
     lockin = pyautogui.locateOnScreen('acceptpng.png',confidence=0.6,grayscale=True)
     banSearch= pyautogui.locateOnScreen('banSearch.png',confidence=0.7)

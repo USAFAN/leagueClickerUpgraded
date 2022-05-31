@@ -23,7 +23,12 @@ while True:
             
             time.sleep(0.5)
             
+
+    
+
             #pyautogui.click(champSearch)
+
+
             print('locked in')
             time.sleep(1)
             

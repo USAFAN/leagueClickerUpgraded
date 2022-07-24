@@ -73,3 +73,518 @@
  2022-01-10 23:31:47,736 - '('
  2022-01-10 23:31:49,169 - Key.tab
  2022-01-10 23:31:56,795 - Key.esc
+ 2022-07-22 13:02:13,590 - 'q'
+ 2022-07-22 13:02:13,595 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 9, in on_press
+    if key == Key.r:
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: r
+ 2022-07-22 13:02:50,396 - 'q'
+ 2022-07-22 13:02:50,396 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 9, in on_press
+    if key == Key.r:
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: r
+ 2022-07-22 13:02:59,329 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 9, in on_press
+    if key == Key.r:
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: r
+ 2022-07-22 13:03:28,939 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 9, in on_press
+    if key == Key.r:
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: r
+ 2022-07-22 13:04:48,034 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 9, in on_press
+    if str(key) == str(Key.r):
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: r
+ 2022-07-22 13:04:55,733 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 9, in on_press
+    if str(key) == str(Key.r):
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: r
+ 2022-07-22 13:05:27,757 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 10, in on_press
+    if key == Key.q:
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: q
+ 2022-07-22 13:05:50,607 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 10, in on_press
+    if str(key) == Key.q:
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: q
+ 2022-07-22 13:06:04,408 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 10, in on_press
+    if key == Key.q:
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: q
+ 2022-07-22 23:33:43,656 - '1'
+ 2022-07-22 23:33:43,888 - '1'
+ 2022-07-22 23:33:53,461 - 'q'
+ 2022-07-22 23:33:53,981 - 'q'
+ 2022-07-22 23:33:54,209 - 'q'
+ 2022-07-22 23:33:54,471 - 'q'
+ 2022-07-22 23:33:54,735 - 'w'
+ 2022-07-22 23:33:54,795 - 'e'
+ 2022-07-22 23:33:54,994 - 'q'
+ 2022-07-22 23:33:55,005 - 'w'
+ 2022-07-22 23:33:55,098 - 'e'
+ 2022-07-22 23:33:55,232 - 'q'
+ 2022-07-22 23:33:55,244 - 'w'
+ 2022-07-22 23:33:55,327 - 'e'
+ 2022-07-22 23:33:55,448 - 'q'
+ 2022-07-22 23:33:55,526 - 'w'
+ 2022-07-22 23:33:55,541 - 'e'
+ 2022-07-22 23:33:55,672 - 'q'
+ 2022-07-22 23:33:55,722 - 'w'
+ 2022-07-22 23:33:55,772 - 'e'
+ 2022-07-22 23:33:55,885 - 'q'
+ 2022-07-22 23:33:55,944 - 'w'
+ 2022-07-22 23:33:55,965 - 'e'
+ 2022-07-22 23:33:56,095 - 'q'
+ 2022-07-22 23:33:56,156 - 'w'
+ 2022-07-22 23:33:56,174 - 'e'
+ 2022-07-22 23:33:56,312 - 'q'
+ 2022-07-22 23:33:56,388 - 'e'
+ 2022-07-22 23:33:56,520 - 'q'
+ 2022-07-22 23:33:56,592 - 'w'
+ 2022-07-22 23:33:56,598 - 'e'
+ 2022-07-22 23:33:56,727 - 'q'
+ 2022-07-22 23:33:56,799 - 'w'
+ 2022-07-22 23:33:56,819 - 'e'
+ 2022-07-22 23:35:12,097 - 'q'
+ 2022-07-22 23:35:12,097 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\ziggsKobeScript.py", line 10, in on_press
+    if key == Key.q:
+  File "C:\Users\etbes\AppData\Local\Programs\Python\Python310\lib\enum.py", line 437, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: q
+ 2022-07-22 23:38:48,014 - 'q'
+ 2022-07-22 23:38:48,522 - 'q'
+ 2022-07-22 23:38:48,797 - 'q'
+ 2022-07-22 23:38:48,989 - 'q'
+ 2022-07-22 23:38:49,200 - 'q'
+ 2022-07-22 23:38:49,794 - 'q'
+ 2022-07-22 23:38:49,979 - 'q'
+ 2022-07-23 01:08:17,995 - 'q'
+ 2022-07-23 01:08:18,725 - 'q'
+ 2022-07-23 01:08:19,032 - 'q'
+ 2022-07-23 01:08:19,258 - 'q'
+ 2022-07-23 01:08:41,672 - 'd'
+ 2022-07-23 01:08:41,829 - 'a'
+ 2022-07-23 01:08:41,955 - 'r'
+ 2022-07-23 01:10:18,445 - 'q'
+ 2022-07-23 01:10:19,011 - 'q'
+ 2022-07-23 01:10:19,233 - 'q'
+ 2022-07-23 01:10:19,423 - 'q'
+ 2022-07-23 01:12:55,326 - 'q'
+ 2022-07-23 01:12:55,326 - Starting
+ 2022-07-23 01:12:57,494 - Returning
+ 2022-07-23 01:12:57,494 - 
+    Error 263 for command:
+        close promt.mp3
+    The specified device is not open or is not recognized by MCI.
+ 2022-07-23 01:12:57,494 - Failed to close the file: promt.mp3
+ 2022-07-23 01:12:57,494 - 'q'
+ 2022-07-23 01:12:57,495 - Starting
+ 2022-07-23 01:12:57,495 - 
+    Error 265 for command:
+        open promt.mp3
+    The device name is already being used as an alias by this application.  Use a unique alias.
+ 2022-07-23 01:12:57,495 - 
+    Error 263 for command:
+        close promt.mp3
+    The specified device is not open or is not recognized by MCI.
+ 2022-07-23 01:12:57,495 - Failed to close the file: promt.mp3
+ 2022-07-23 01:12:57,495 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\zig.py", line 17, in on_press
+    playsound.playsound('promt.mp3')
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\playsound.py", line 72, in _playsoundWin
+    winCommand(u'open {}'.format(sound))
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException: 
+    Error 265 for command:
+        open promt.mp3
+    The device name is already being used as an alias by this application.  Use a unique alias.
+ 2022-07-23 01:13:42,965 - 'q'
+ 2022-07-23 01:13:42,965 - Starting
+ 2022-07-23 01:13:45,144 - Returning
+ 2022-07-23 01:13:45,144 - 
+    Error 263 for command:
+        close promt.mp3
+    The specified device is not open or is not recognized by MCI.
+ 2022-07-23 01:13:45,144 - Failed to close the file: promt.mp3
+ 2022-07-23 01:13:48,341 - 'q'
+ 2022-07-23 01:13:48,342 - Starting
+ 2022-07-23 01:13:48,342 - 
+    Error 265 for command:
+        open promt.mp3
+    The device name is already being used as an alias by this application.  Use a unique alias.
+ 2022-07-23 01:13:48,342 - 
+    Error 263 for command:
+        close promt.mp3
+    The specified device is not open or is not recognized by MCI.
+ 2022-07-23 01:13:48,342 - Failed to close the file: promt.mp3
+ 2022-07-23 01:13:48,342 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\zig.py", line 17, in on_press
+    playsound.playsound('promt.mp3')
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\playsound.py", line 72, in _playsoundWin
+    winCommand(u'open {}'.format(sound))
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException: 
+    Error 265 for command:
+        open promt.mp3
+    The device name is already being used as an alias by this application.  Use a unique alias.
+ 2022-07-23 01:44:04,471 - 'q'
+ 2022-07-23 01:44:04,477 - Starting
+ 2022-07-23 01:44:06,659 - Returning
+ 2022-07-23 01:44:06,659 - 
+    Error 263 for command:
+        close promt.mp3
+    The specified device is not open or is not recognized by MCI.
+ 2022-07-23 01:44:06,659 - Failed to close the file: promt.mp3
+ 2022-07-23 01:44:09,661 - 'q'
+ 2022-07-23 01:44:09,661 - Starting
+ 2022-07-23 01:44:09,661 - 
+    Error 265 for command:
+        open promt.mp3
+    The device name is already being used as an alias by this application.  Use a unique alias.
+ 2022-07-23 01:44:09,661 - 
+    Error 263 for command:
+        close promt.mp3
+    The specified device is not open or is not recognized by MCI.
+ 2022-07-23 01:44:09,661 - Failed to close the file: promt.mp3
+ 2022-07-23 01:44:09,661 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\zig.py", line 17, in on_press
+    playsound('promt.mp3')
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\playsound.py", line 72, in _playsoundWin
+    winCommand(u'open {}'.format(sound))
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException: 
+    Error 265 for command:
+        open promt.mp3
+    The device name is already being used as an alias by this application.  Use a unique alias.
+ 2022-07-23 01:48:21,065 - Key.ctrl_l
+ 2022-07-23 01:48:21,162 - '\x03'
+ 2022-07-23 01:48:24,717 - Key.ctrl_l
+ 2022-07-23 01:48:24,799 - '\x16'
+ 2022-07-23 01:48:26,278 - Key.enter
+ 2022-07-23 01:53:11,452 - 'q'
+ 2022-07-23 01:53:23,381 - 'q'
+ 2022-07-23 01:53:32,942 - 'i'
+ 2022-07-23 01:53:33,373 - Key.backspace
+ 2022-07-23 01:53:33,524 - Key.backspace
+ 2022-07-23 01:53:33,627 - 'k'
+ 2022-07-23 01:53:33,801 - 'o'
+ 2022-07-23 01:53:33,935 - 'b'
+ 2022-07-23 01:53:34,041 - 'e'
+ 2022-07-23 01:53:34,128 - Key.space
+ 2022-07-23 01:53:34,692 - 's'
+ 2022-07-23 01:53:34,740 - 'o'
+ 2022-07-23 01:53:34,814 - 'u'
+ 2022-07-23 01:53:34,860 - 'n'
+ 2022-07-23 01:53:34,908 - 'd'
+ 2022-07-23 01:53:34,972 - Key.enter
+ 2022-07-23 01:53:56,619 - Key.ctrl_l
+ 2022-07-23 01:53:56,714 - '\x03'
+ 2022-07-23 01:53:59,182 - Key.ctrl_l
+ 2022-07-23 01:53:59,304 - '\x16'
+ 2022-07-23 01:53:59,505 - Key.space
+ 2022-07-23 01:54:00,291 - 's'
+ 2022-07-23 01:54:00,395 - 'o'
+ 2022-07-23 01:54:00,489 - 'u'
+ 2022-07-23 01:54:00,536 - 'n'
+ 2022-07-23 01:54:00,554 - 'd'
+ 2022-07-23 01:54:00,667 - Key.enter
+ 2022-07-23 01:54:50,791 - Key.space
+ 2022-07-23 01:54:52,136 - 'm'
+ 2022-07-23 01:54:52,270 - 'e'
+ 2022-07-23 01:54:52,319 - 'm'
+ 2022-07-23 01:54:52,522 - Key.enter
+ 2022-07-23 01:54:56,835 - Key.right
+ 2022-07-23 01:54:57,481 - Key.right
+ 2022-07-23 01:54:58,080 - Key.right
+ 2022-07-23 01:54:58,539 - Key.right
+ 2022-07-23 01:54:59,481 - Key.left
+ 2022-07-23 01:55:06,986 - Key.ctrl_l
+ 2022-07-23 01:55:07,060 - '\x03'
+ 2022-07-23 01:55:09,209 - 'm'
+ 2022-07-23 01:55:09,312 - 'p'
+ 2022-07-23 01:55:09,391 - '3'
+ 2022-07-23 01:55:09,535 - Key.space
+ 2022-07-23 01:55:09,694 - 's'
+ 2022-07-23 01:55:09,831 - 'o'
+ 2022-07-23 01:55:09,917 - 'u'
+ 2022-07-23 01:55:09,954 - 'n'
+ 2022-07-23 01:55:10,005 - 'd'
+ 2022-07-23 01:55:10,622 - Key.backspace
+ 2022-07-23 01:55:11,168 - 'd'
+ 2022-07-23 01:55:11,329 - Key.space
+ 2022-07-23 01:55:11,511 - Key.backspace
+ 2022-07-23 01:55:12,016 - Key.backspace
+ 2022-07-23 01:55:12,047 - Key.backspace
+ 2022-07-23 01:55:12,093 - Key.backspace
+ 2022-07-23 01:55:12,124 - Key.backspace
+ 2022-07-23 01:55:12,155 - Key.backspace
+ 2022-07-23 01:55:12,186 - Key.backspace
+ 2022-07-23 01:55:12,217 - Key.backspace
+ 2022-07-23 01:55:12,247 - Key.backspace
+ 2022-07-23 01:55:12,278 - Key.backspace
+ 2022-07-23 01:55:12,323 - Key.backspace
+ 2022-07-23 01:55:12,354 - Key.backspace
+ 2022-07-23 01:55:12,384 - Key.backspace
+ 2022-07-23 01:55:12,437 - 'y'
+ 2022-07-23 01:55:12,550 - 'o'
+ 2022-07-23 01:55:12,641 - 'u'
+ 2022-07-23 01:55:12,762 - 't'
+ 2022-07-23 01:55:12,898 - 'u'
+ 2022-07-23 01:55:13,008 - 'e'
+ 2022-07-23 01:55:13,011 - 'b'
+ 2022-07-23 01:55:13,204 - Key.space
+ 2022-07-23 01:55:13,295 - 'm'
+ 2022-07-23 01:55:13,676 - 'p'
+ 2022-07-23 01:55:13,770 - '3'
+ 2022-07-23 01:55:14,075 - Key.enter
+ 2022-07-23 01:55:18,107 - Key.ctrl_l
+ 2022-07-23 01:55:18,172 - '\x16'
+ 2022-07-23 01:55:28,826 - 'k'
+ 2022-07-23 01:55:29,006 - 'o'
+ 2022-07-23 01:55:29,098 - 'b'
+ 2022-07-23 01:55:29,203 - 'e'
+ 2022-07-23 01:55:29,333 - '.'
+ 2022-07-23 01:55:30,028 - Key.enter
+ 2022-07-23 01:55:34,133 - Key.right
+ 2022-07-23 01:55:34,585 - Key.backspace
+ 2022-07-23 01:55:34,729 - Key.enter
+ 2022-07-23 01:55:39,451 - 'k'
+ 2022-07-23 01:55:39,590 - 'o'
+ 2022-07-23 01:55:39,680 - 'b'
+ 2022-07-23 01:55:39,776 - 'e'
+ 2022-07-23 01:55:47,173 - 'q'
+ 2022-07-23 01:55:54,102 - 'q'
+ 2022-07-23 01:56:09,796 - 'q'
+ 2022-07-23 01:56:20,717 - Key.enter
+ 2022-07-23 01:56:20,907 - Key.shift
+ 2022-07-23 01:56:21,013 - '#'
+ 2022-07-23 01:56:21,612 - Key.backspace
+ 2022-07-23 01:56:21,752 - Key.shift
+ 2022-07-23 01:56:22,263 - Key.shift
+ 2022-07-23 01:56:22,294 - Key.shift
+ 2022-07-23 01:56:22,325 - Key.shift
+ 2022-07-23 01:56:22,336 - '#'
+ 2022-07-23 01:56:22,750 - 'p'
+ 2022-07-23 01:56:22,936 - 'l'
+ 2022-07-23 01:56:23,021 - 'a'
+ 2022-07-23 01:56:23,354 - 'y'
+ 2022-07-23 01:56:23,470 - Key.space
+ 2022-07-23 01:56:23,585 - 'a'
+ 2022-07-23 01:56:23,669 - Key.space
+ 2022-07-23 01:56:23,822 - 's'
+ 2022-07-23 01:56:23,938 - 'o'
+ 2022-07-23 01:56:24,023 - 'u'
+ 2022-07-23 01:56:24,094 - 'n'
+ 2022-07-23 01:56:24,195 - 'd'
+ 2022-07-23 01:56:24,309 - Key.space
+ 2022-07-23 01:56:24,459 - 'a'
+ 2022-07-23 01:56:24,590 - 't'
+ 2022-07-23 01:56:24,618 - Key.space
+ 2022-07-23 01:56:25,180 - 'h'
+ 2022-07-23 01:56:25,408 - 'a'
+ 2022-07-23 01:56:25,495 - 'l'
+ 2022-07-23 01:56:25,626 - 'f'
+ 2022-07-23 01:56:25,728 - Key.space
+ 2022-07-23 01:56:26,774 - Key.tab
+ 2022-07-23 01:56:26,937 - Key.enter
+ 2022-07-23 01:56:35,788 - ','
+ 2022-07-23 01:56:36,129 - Key.space
+ 2022-07-23 01:56:37,043 - Key.tab
+ 2022-07-23 01:58:44,055 - 'q'
+ 2022-07-23 01:58:44,055 - Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\keyboard\_win32.py", line 287, in _process
+    self.on_press(key)
+  File "D:\python2022\leagueClickerUpgraded\newVenvTest\lib\site-packages\pynput\_util\__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "d:\python2022\leagueClickerUpgraded\zig.py", line 20, in on_press
+    playsound('D:\\python2022\\leagueClickerUpgraded\\kobe.mp3', volume=0.5)
+TypeError: _playsoundWin() got an unexpected keyword argument 'volume'
+ 2022-07-23 01:59:31,012 - 'q'
+ 2022-07-23 01:59:37,414 - 'q'
+ 2022-07-23 01:59:43,550 - Key.space
+ 2022-07-23 01:59:43,550 - Key.space
+ 2022-07-23 01:59:43,550 - Key.space
+ 2022-07-23 01:59:43,550 - Key.space
+ 2022-07-23 01:59:43,551 - Key.space
+ 2022-07-23 01:59:43,551 - Key.space
+ 2022-07-23 01:59:43,551 - Key.space
+ 2022-07-23 01:59:43,551 - Key.space
+ 2022-07-23 01:59:43,552 - Key.space
+ 2022-07-23 01:59:43,552 - Key.space
+ 2022-07-23 01:59:43,552 - Key.space
+ 2022-07-23 01:59:43,553 - 'q'
+ 2022-07-23 01:59:49,681 - 'q'
+ 2022-07-23 01:59:55,815 - Key.shift
+ 2022-07-23 02:00:13,295 - Key.space
+ 2022-07-23 02:00:13,808 - Key.space
+ 2022-07-23 02:00:13,838 - Key.space
+ 2022-07-23 02:00:13,868 - Key.space
+ 2022-07-23 02:00:13,900 - Key.space
+ 2022-07-23 02:00:13,906 - 'q'
+ 2022-07-23 02:00:18,089 - 'q'
+ 2022-07-23 02:00:22,222 - 'q'
+ 2022-07-23 02:00:26,351 - 'q'
+ 2022-07-23 02:00:30,480 - Key.space
+ 2022-07-23 02:00:30,480 - Key.space
+ 2022-07-23 02:00:30,480 - Key.space
+ 2022-07-23 02:00:30,481 - Key.space
+ 2022-07-23 02:00:30,481 - Key.space
+ 2022-07-23 02:00:30,481 - Key.space
+ 2022-07-23 02:00:30,481 - Key.space
+ 2022-07-23 02:00:30,481 - Key.space
+ 2022-07-23 02:00:30,482 - Key.space
+ 2022-07-23 02:00:30,482 - Key.space
+ 2022-07-23 02:00:30,482 - Key.space
+ 2022-07-23 02:00:30,482 - Key.space
+ 2022-07-23 02:00:30,493 - Key.space
+ 2022-07-23 02:00:30,525 - Key.space
+ 2022-07-23 02:00:30,557 - Key.space
+ 2022-07-23 02:00:30,589 - Key.space
+ 2022-07-23 02:00:30,620 - Key.space
+ 2022-07-23 02:00:30,652 - Key.space
+ 2022-07-23 02:00:30,682 - Key.space
+ 2022-07-23 02:00:30,728 - Key.space
+ 2022-07-23 02:00:31,182 - 'q'
+ 2022-07-23 02:00:37,925 - Key.space
+ 2022-07-23 02:00:38,736 - 'q'
+ 2022-07-23 02:00:42,863 - 'q'
+ 2022-07-23 02:00:47,006 - 'q'
+ 2022-07-23 02:00:53,212 - 'q'
+ 2022-07-23 02:01:00,304 - Key.esc
+ 2022-07-23 02:01:02,320 - Key.alt_l
+ 2022-07-23 02:01:02,528 - Key.tab
+ 2022-07-23 02:01:14,570 - Key.backspace
+ 2022-07-23 02:01:14,845 - Key.tab
+ 2022-07-23 02:01:15,749 - Key.backspace
+ 2022-07-23 02:01:16,495 - Key.tab
+ 2022-07-23 02:01:18,237 - Key.space
+ 2022-07-23 02:01:18,809 - Key.backspace
+ 2022-07-23 02:01:18,984 - Key.backspace
+ 2022-07-23 02:01:20,290 - Key.space
+ 2022-07-23 02:01:20,717 - Key.space
+ 2022-07-23 02:01:21,033 - Key.space
+ 2022-07-23 02:01:21,275 - Key.space
+ 2022-07-23 02:01:21,746 - Key.backspace
+ 2022-07-23 02:01:22,407 - Key.tab
+ 2022-07-23 02:01:23,750 - Key.right
+ 2022-07-23 02:01:24,359 - Key.left
+ 2022-07-23 02:01:24,708 - Key.backspace
+ 2022-07-23 02:01:24,934 - Key.backspace
+ 2022-07-23 02:01:25,323 - Key.backspace
+ 2022-07-23 02:01:25,911 - Key.enter

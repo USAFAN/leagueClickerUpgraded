@@ -1,6 +1,6 @@
 import pyautogui
 import time
-
+from playsound import playsound
 import multiprocessing
 # for playing note.wav file
 
@@ -28,7 +28,8 @@ while True:
 
             #pyautogui.click(champSearch)
 
-
+            playsound('D:\\python2022\\leagueClickerUpgraded\\kobe.mp3')
+       
             print('locked in')
             time.sleep(1)
             

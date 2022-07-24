@@ -10,7 +10,7 @@ for i in range(140):
     pyautogui.click(88, 144, duration=dur)
     #time.sleep(25)
     
-    pyautogui.click(120, 170, duration=dur)
+    pyautogui.click(120, 190, duration=dur)
     pyautogui.click(400,420,duration=dur)
     time.sleep(1)
 
@@ -19,3 +19,4 @@ for i in range(140):
     if pyautogui.keyDown('q'):
         print('ESC pressed')
         break
+    print(i)

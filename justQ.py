@@ -17,14 +17,14 @@ while True:
         
             i+=1
             print(i)
-            #search for the lockinPng.png image on all screens
+            #search for the lockinPng.png image on all screens 
             
             
             champSearch = pyautogui.locateOnScreen('lockinPng.png',confidence=0.7)
             print(champSearch)
             if champSearch != None:
                 #play sound on a new thread then delete it
-                
+                 
                 time.sleep(0.5)
                 
 

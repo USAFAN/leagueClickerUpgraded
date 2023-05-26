@@ -39,6 +39,8 @@ while True:
                 
                 print('playing sound using  playsound')
                 print("found lockinPng")
+                multiprocessing.Process(target=playsound, args=('D:\python2022\leagueClickerUpgraded\promt.mp3',)).start()
+
                 pyautogui.click(champSearch,duration=0.5)
                 playsound('D:\\python2022\\leagueClickerUpgraded\\prompt.mp3')
 
